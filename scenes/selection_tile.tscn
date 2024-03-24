@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://cqru4juy01egq"]
+
+[ext_resource type="Script" path="res://scripts/selection_tile.gd" id="1_e6chl"]
+
+[node name="TextureRect" type="TextureRect"]
+custom_minimum_size = Vector2(100, 100)
+script = ExtResource("1_e6chl")
